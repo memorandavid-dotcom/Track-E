@@ -1,0 +1,13 @@
+{
+  "name": "Track-E Smart Urban Mobility",
+  "description": "An advanced AI-powered urban mobility platform featuring predictive traffic forecasting, dead-reckoning offline mode, and emergency 'Golden Hour' protocols for proactive, safety-first routing.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI-Powered Routing",
+    "Emergency Response Automation",
+    "Predictive Traffic Analysis"
+  ]
+}
